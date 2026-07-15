@@ -25,12 +25,5 @@ Estou em transição de carreira: da **logística e operações** para a área d
 
 ---
 
-### 📈 Minha atividade no GitHub
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSantanna1&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantanna1&layout=compact)
-
----
 
 💡 *Unindo raciocínio lógico, organização e visão de processos para resolver problemas com dados.*
